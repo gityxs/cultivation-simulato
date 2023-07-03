@@ -76,7 +76,7 @@ var cnItems = {
     "Climb Mountains": "爬山",
     "Crafting": "制作",
     "Current Location": "当前位置",
-    "Def": "定义",
+    "Def": "防御",
     "Defence": "防御",
     "Defence Stance": "防御姿态",
     "Dodge": "躲闪",
