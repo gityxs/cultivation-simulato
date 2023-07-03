@@ -167,7 +167,7 @@ var cnItems = {
     "exponential": "指数",
     "Export Save": "导出存档",
     "Feral Rat": "野鼠",
-    "Fight": "斗争",
+    "Fight": "战斗",
     "Random Nobody)": "随机无人）",
     "Fist Strike": "拳击",
     "Flee": "逃跑",
